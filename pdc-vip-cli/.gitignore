@@ -1,0 +1,9 @@
+# 编译产物（请用 `go build -o pdc-cli .` 自行构建）
+pdc-cli
+# 测试数据 / 本地素材（含真实经营数据，勿入库）
+testdata/
+*.zip
+# 系统
+.DS_Store
+__pycache__/
+*.pyc

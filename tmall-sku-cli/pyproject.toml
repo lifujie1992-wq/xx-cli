@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tmall-sku-cli"
+version = "0.1.0"
+description = "Extract Tmall SKU prices from Feishu sheets using OpenBridge"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "lifujie"}]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.5", "black>=24", "isort>=5"]
+
+[project.scripts]
+tmall-sku-cli = "tmall_sku_cli.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+  "unit: fast unit tests",
+  "integration: tests that require external tools or browser sessions",
+]
+
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
+src = ["src", "tests"]
+
+[tool.isort]
+profile = "black"
+line_length = 100

@@ -1,0 +1,259 @@
+{
+  "product_id": "款式_02",
+  "source_folder": "/path/to/ç´ æ",
+  "name": "厚底洞洞鞋男防滑防臭透气司机沙滩鞋",
+  "source_category": "",
+  "attributes": {
+    "鞋面材质": "EVA",
+    "闭合方式": "套脚",
+    "适用季节": "夏季"
+  },
+  "service": {
+    "ship_time": "",
+    "promise": "",
+    "extra": ""
+  },
+  "skus": [
+    {
+      "color": "开车",
+      "size": "35",
+      "code": "7129-开车-35",
+      "pin_price": "200",
+      "single_price": "210",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "开车",
+      "size": "37",
+      "code": "7129-开车-37",
+      "pin_price": "200",
+      "single_price": "210",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "开车",
+      "size": "39",
+      "code": "7129-开车-39",
+      "pin_price": "200",
+      "single_price": "210",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "开车",
+      "size": "40",
+      "code": "7129-开车-40",
+      "pin_price": "200",
+      "single_price": "210",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "开车",
+      "size": "42",
+      "code": "7129-开车-42",
+      "pin_price": "200",
+      "single_price": "210",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "开车",
+      "size": "44",
+      "code": "7129-开车-44",
+      "pin_price": "200",
+      "single_price": "210",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "涉水溯溪",
+      "size": "35",
+      "code": "7129-<涉水溯溪-35",
+      "pin_price": "210",
+      "single_price": "220",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "涉水溯溪",
+      "size": "37",
+      "code": "7129-<涉水溯溪-37",
+      "pin_price": "210",
+      "single_price": "220",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "涉水溯溪",
+      "size": "39",
+      "code": "7129-<涉水溯溪-39",
+      "pin_price": "210",
+      "single_price": "220",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "涉水溯溪",
+      "size": "40",
+      "code": "7129-<涉水溯溪-40",
+      "pin_price": "210",
+      "single_price": "220",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "涉水溯溪",
+      "size": "42",
+      "code": "7129-<涉水溯溪-42",
+      "pin_price": "210",
+      "single_price": "220",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "涉水溯溪",
+      "size": "44",
+      "code": "7129-<涉水溯溪-44",
+      "pin_price": "210",
+      "single_price": "220",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "白色",
+      "size": "35",
+      "code": "7129-白色-35",
+      "pin_price": "220",
+      "single_price": "230",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "白色",
+      "size": "37",
+      "code": "7129-白色-37",
+      "pin_price": "220",
+      "single_price": "230",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "白色",
+      "size": "39",
+      "code": "7129-白色-39",
+      "pin_price": "220",
+      "single_price": "230",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "白色",
+      "size": "40",
+      "code": "7129-白色-40",
+      "pin_price": "220",
+      "single_price": "230",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "白色",
+      "size": "42",
+      "code": "7129-白色-42",
+      "pin_price": "220",
+      "single_price": "230",
+      "ref_price": "240",
+      "stock": "400"
+    },
+    {
+      "color": "白色",
+      "size": "44",
+      "code": "7129-白色-44",
+      "pin_price": "220",
+      "single_price": "230",
+      "ref_price": "240",
+      "stock": "400"
+    }
+  ],
+  "colors": [
+    {
+      "name": "白色",
+      "kind": "color"
+    },
+    {
+      "name": "开车",
+      "kind": "variant"
+    },
+    {
+      "name": "涉水溯溪",
+      "kind": "variant"
+    }
+  ],
+  "sizes": [
+    "35",
+    "37",
+    "39",
+    "40",
+    "42",
+    "44"
+  ],
+  "source": "商品数据-7129.xlsx",
+  "images": {
+    "main": [
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ"
+    ],
+    "detail": [
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ"
+    ],
+    "color": [
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ"
+    ],
+    "info": [
+      "/path/to/ç´ æ",
+      "/path/to/ç´ æ"
+    ]
+  },
+  "name_raw": "厚底洞洞鞋男款外穿夏季2026新款防滑防臭透气司机开",
+  "category_path": "男鞋 > 洞洞鞋",
+  "category_confidence": "high",
+  "price": {
+    "pin": 220,
+    "single": 230,
+    "ref": 240
+  }
+}

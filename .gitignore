@@ -1,0 +1,96 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local settings and credentials
+.claude/settings.local.json
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa
+id_ed25519
+
+# Browser profiles and session state
+**/User Data/
+**/Profile */
+**/Local Storage/
+**/Session Storage/
+**/IndexedDB/
+**/Cookies
+**/Login Data
+**/Local State
+
+# Build, dependency, cache, and coverage artifacts
+**/dist/
+**/build/
+**/tmp/
+**/coverage/
+**/htmlcov/
+.cache/
+.mypy_cache/
+.tox/
+.nox/
+node_modules/
+vendor/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+*.py[cod]
+*.test
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+.coverage*
+lcov.info
+*.log
+
+# Databases, archives, and generated exports
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.dump
+*.bak
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.csv
+*.jsonl
+
+# CLI binaries generated at module roots
+/aldspdd-cli/aldspdd-cli
+/chatgpt-image-cli/chatgpt-image-cli
+/doudian-business-center/doudian-biz
+/pdc-vip-cli/pdc-cli
+/pdd-ss-cli/pdd-ss-cli
+/taobao-cli/taobao-cli
+/woda-aftersale-cli/woda-aftersale-cli
+
+# Local runtime/business data
+/doudian-business-center/output/
+/sphxd-cli/data/*
+!/sphxd-cli/data/.gitkeep
+/pdc-vip-cli/1.txt
